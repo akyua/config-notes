@@ -13,9 +13,14 @@ This configuration was set up on Nobara Linux (a Fedora-based distro). In case o
 - waybar
 - Kitty
 - neofetch
+- nvim
+- tmux
 
 ## Pictures - Style
 ### Hyprland
+Soon
+
+### nvim
 Soon
 
 ### swww
@@ -29,3 +34,5 @@ Soon
 
 ### Kitty
 ![image](https://github.com/akyua/Gaming-Portable/assets/75745796/d11005a5-04a3-4058-bdb5-d6e260354ccf)
+### tmux
+Soon
