@@ -15,6 +15,7 @@ This configuration was set up on Nobara Linux (a Fedora-based distro). In case o
 - neofetch
 - nvim - lazyvim
 - tmux
+- rofi
 
 ## Pictures - Style
 ### Hyprland
@@ -33,6 +34,10 @@ Soon
 ![neofetch](https://github.com/akyua/config-notes/assets/75745796/f0245a5c-a45f-43e1-93e3-9ebd4ca520bc)
 
 ### Kitty
-![image](https://github.com/akyua/Gaming-Portable/assets/75745796/d11005a5-04a3-4058-bdb5-d6e260354ccf)
+![kitty](https://github.com/akyua/config-notes/assets/75745796/ba3e4b42-7fe5-4e28-bcad-e62f25d306c2)
+
+### rofi
+![rofi](https://github.com/akyua/config-notes/assets/75745796/99984f5b-e67c-4026-bc8a-72b4fd36c406)
+
 ### tmux
 ![tmux](https://github.com/akyua/config-notes/assets/75745796/43a2f463-c53c-4944-bd9a-ecbc82979eb8)
