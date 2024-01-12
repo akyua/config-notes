@@ -13,26 +13,26 @@ This configuration was set up on Nobara Linux (a Fedora-based distro). In case o
 - waybar
 - Kitty
 - neofetch
-- nvim
+- nvim - lazyvim
 - tmux
 
 ## Pictures - Style
 ### Hyprland
 Soon
 
-### nvim
-Soon
+### nvim - lazyvim
+![nvim](https://github.com/akyua/config-notes/assets/75745796/0ed6dd76-8cea-486f-8676-3282f04f0645)
 
 ### swww
-Soon
+![swww](https://github.com/akyua/config-notes/assets/75745796/0cbcec18-6fb4-4206-834c-e0286e4df9ba)
 
 ### waybar
 Soon
 
 ### Neofetch
-![image](https://github.com/akyua/Gaming-Portable/assets/75745796/745d4acc-59c7-4f22-a4a5-11044f8e08c5)
+![neofetch](https://github.com/akyua/config-notes/assets/75745796/f0245a5c-a45f-43e1-93e3-9ebd4ca520bc)
 
 ### Kitty
 ![image](https://github.com/akyua/Gaming-Portable/assets/75745796/d11005a5-04a3-4058-bdb5-d6e260354ccf)
 ### tmux
-Soon
+![tmux](https://github.com/akyua/config-notes/assets/75745796/43a2f463-c53c-4944-bd9a-ecbc82979eb8)
