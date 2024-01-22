@@ -1,7 +1,7 @@
 return {
-  "catppuccin/nvim",
+  "bluz71/vim-moonfly-colors",
   lazy = true,
-  name = "catppuccin",
+  name = "moonfly",
   opts = {
     integrations = {
       aerial = true,
