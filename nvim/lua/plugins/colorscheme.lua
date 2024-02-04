@@ -1,7 +1,7 @@
 return {
-  "bluz71/vim-moonfly-colors",
+  "bluz71/vim-nightfly-colors",
   lazy = true,
-  name = "moonfly",
+  name = "nightfly",
   priority = 1000,
   opts = {},
 }
