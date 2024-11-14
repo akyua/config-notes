@@ -12,6 +12,7 @@ This configuration was set up on Nobara Linux (a Fedora-based distro). In case o
 - swww
 - waybar
 - Kitty
+- fastfetch
 - neofetch
 - nvim - lazyvim
 - tmux
@@ -30,7 +31,11 @@ Soon
 ### waybar
 Soon
 
+### Fastfetch
+![image](https://github.com/user-attachments/assets/af0c0a23-5855-4196-88c3-c3e864bf7d80)
+
 ### Neofetch
+
 ![neofetch](https://github.com/akyua/config-notes/assets/75745796/f0245a5c-a45f-43e1-93e3-9ebd4ca520bc)
 
 ### Kitty
